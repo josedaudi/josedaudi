@@ -9,7 +9,7 @@ My activities are much beyond my stream of education.
 
 ### Github Stats
 
-[<img src="https://github-readme-stats.vercel.app/api?username=josedaudi&count_private=true&show_icons=true&theme=light&border_radius=9"/>]()
+[<img src="https://github-readme-stats.vercel.app/api?username=josedaudi&count_private=true&include_all_commits=true&show_icons=true&theme=light&border_radius=9"/>]()
 
 ### Social Profiles
 
