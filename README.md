@@ -11,6 +11,13 @@ I mainly code in Python, Java, Kotlin(Android), Javascript and its frameworks, F
 
 [<img src="https://github-readme-stats.vercel.app/api?username=josedaudi&count_private=true&include_all_commits=true&show_icons=true&theme=light&border_radius=9"/>]()
 
+[<a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=josedaudi&custom_title=Joseph%20Daudi's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>]()
+    
+[<img src="https://github-profile-trophy.vercel.app/?username=josedaudi&column=8&theme=onedark" />]()
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/josedaudi/josedaudi/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/josedaudi/josedaudi/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+
 ### Social Profiles
 
 [<img alt="StackOverFlow" src="https://img.shields.io/badge/StackOverFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=Stackoverflow&logoColor=white"/>](https://stackoverflow.com/users/4805642/joseph-daudi)
