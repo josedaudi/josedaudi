@@ -5,7 +5,7 @@
 
 I'm Joseph Daudi, a Software Developer from the United Republic of Tanzania, who loves coding.
 I mainly code in Python, Java, Kotlin(Android), Javascript and its frameworks, Full Stack Development, MERN, Machine Learning, but I am always learning.
-My activities are much beyond my stream of education.
+<!-- My activities are much beyond my stream of education. -->
 
 ### Github Stats
 
