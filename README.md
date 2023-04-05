@@ -9,7 +9,7 @@ I mainly code in Python, Java, Kotlin(Android), Javascript and its frameworks, F
 
 ### Github Stats
 
-<!-- [<img src="https://github-readme-stats.vercel.app/api?username=josedaudi&count_private=true&include_all_commits=true&show_icons=true&theme=light&border_radius=9"/>]() -->
+[<img src="https://github-readme-stats.vercel.app/api?username=josedaudi&count_private=true&include_all_commits=true&show_icons=true&theme=light&border_radius=9"/>]()
 
 [<img src="https://activity-graph.herokuapp.com/graph?username=josedaudi&custom_title=Joseph%20Daudi's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" />]()
 
@@ -21,12 +21,11 @@ I mainly code in Python, Java, Kotlin(Android), Javascript and its frameworks, F
 ### Social Profiles
 
 [<img alt="StackOverFlow" src="https://img.shields.io/badge/StackOverFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=Stackoverflow&logoColor=white"/>](https://stackoverflow.com/users/4805642/joseph-daudi)
-[<img alt="Twitter" src="https://img.shields.io/badge/@daudithe%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/daudithe)
+[<img alt="HackerRank" src="https://img.shields.io/badge/@daudithe%20-%231DA1F2.svg?&style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://hackerrank.com/daudithe)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/joseph-daudi/)
 
-----------
 
-### Languages
+<!-- ### Languages 
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -85,4 +84,4 @@ I mainly code in Python, Java, Kotlin(Android), Javascript and its frameworks, F
 
 ### My Top Used Languages
 
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josedaudi&count_private=true&show_icons=true&theme=light&border_radius=9)]() 
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josedaudi&count_private=true&show_icons=true&theme=light&border_radius=9)]()  -->
