@@ -7,9 +7,9 @@ I'm Joseph Daudi, a Software Developer from the United Republic of Tanzania, who
 I mainly code in Python, Java, Kotlin(Android), Javascript and its frameworks, Full Stack Development, MERN, Machine Learning, but I am always learning.
 <!-- My activities are much beyond my stream of education. -->
 
-### Github Stats
+<!-- ### Github Stats
 
-[<img src="https://github-readme-stats.vercel.app/api?username=josedaudi&count_private=true&include_all_commits=true&show_icons=true&theme=light&border_radius=9"/>]()
+[<img src="https://github-readme-stats.vercel.app/api?username=josedaudi&count_private=true&include_all_commits=true&show_icons=true&theme=light&border_radius=9"/>]() -->
 
 [<img src="https://activity-graph.herokuapp.com/graph?username=josedaudi&custom_title=Joseph%20Daudi's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" />]()
 
@@ -21,7 +21,7 @@ I mainly code in Python, Java, Kotlin(Android), Javascript and its frameworks, F
 ### Social Profiles
 
 [<img alt="StackOverFlow" src="https://img.shields.io/badge/StackOverFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=Stackoverflow&logoColor=white"/>](https://stackoverflow.com/users/4805642/joseph-daudi)
-[<img alt="HackerRank" src="https://img.shields.io/badge/@daudithe%20-%231DA1F2.svg?&style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://hackerrank.com/daudithe)
+[<img alt="HackerRank" src="https://img.shields.io/badge/@daudithe%20-%230E141E.svg?&style=for-the-badge&logo=HackerRank&logoColor=white"/>]([https://www.hackerrank.com/joseph137](https://www.hackerrank.com/joseph137))
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/joseph-daudi/)
 
 
