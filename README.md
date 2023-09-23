@@ -41,7 +41,6 @@
 ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-%230167ff.svg?&style=for-the-badge&logo=googleCloud&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-%23FCC624?&style=for-the-badge&logo=Linux&logoColor=black)
 
 ### Machine Learning and Data Analytics
 
