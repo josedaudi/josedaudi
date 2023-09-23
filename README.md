@@ -42,7 +42,7 @@
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?&style=for-the-badge&logo=Linux&logoColor=black)
 
-### Machine Learning and Data Analysis
+### Machine Learning and Data Analytics
 
 ![PyTorch](https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
