@@ -1,13 +1,7 @@
-# Hi {👋}, 
+# print("Hello World 👋,") 
 
 ![](https://komarev.com/ghpvc/?username=josedaudi&color=green)
 -------------------------------------------------
-
-I'm Joseph Daudi, a Software Developer from the United Republic of Tanzania, who loves coding.
-I mainly code in Python, Java, Kotlin(Android), Javascript and its frameworks, Full Stack Development, MERN, Machine Learning, but I am always learning.
-<!-- My activities are much beyond my stream of education. -->
-    
-<!-- [<img src="https://github-profile-trophy.vercel.app/?username=josedaudi&column=8&theme=onedark" />]() -->
 
 ### Social Profiles
 
