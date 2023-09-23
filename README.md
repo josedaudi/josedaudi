@@ -52,6 +52,3 @@
 ![NumPy](https://img.shields.io/badge/scikit%20Learn%20-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Tensorflow 2.0](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-### My Top Used Languages
-
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josedaudi&count_private=true&show_icons=true&theme=light&border_radius=9)]()
