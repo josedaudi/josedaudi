@@ -7,7 +7,7 @@ I'm Joseph Daudi, a Software Developer from the United Republic of Tanzania, who
 I mainly code in Python, Java, Kotlin(Android), Javascript and its frameworks, Full Stack Development, MERN, Machine Learning, but I am always learning.
 <!-- My activities are much beyond my stream of education. -->
     
-[<img src="https://github-profile-trophy.vercel.app/?username=josedaudi&column=8&theme=onedark" />]()
+<!-- [<img src="https://github-profile-trophy.vercel.app/?username=josedaudi&column=8&theme=onedark" />]() -->
 
 ### Social Profiles
 
@@ -26,7 +26,6 @@ I mainly code in Python, Java, Kotlin(Android), Javascript and its frameworks, F
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-FFFFFF.svg?style=for-the-badge&logo=graphql)
 
 ### Databases
 
@@ -47,10 +46,9 @@ I mainly code in Python, Java, Kotlin(Android), Javascript and its frameworks, F
 ![Vaadin](https://img.shields.io/badge/Vaadin%20-%2300B4F0.svg?&style=for-the-badge&logo=vaadin&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
 
-### Technologies
+### Cloud Technologies
 
 ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible%20-%23EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white)
