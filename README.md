@@ -11,8 +11,8 @@ I mainly code in Python, Java, Kotlin(Android), Javascript and its frameworks, F
 
 ### Social Profiles
 
-[<img alt="StackOverFlow" src="https://img.shields.io/badge/StackOverFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=Stackoverflow&logoColor=white"/>](https://stackoverflow.com/users/4805642/joseph-daudi)
-[<img alt="HackerRank" src="https://img.shields.io/badge/josedaudi%20-%230E141E.svg?&style=for-the-badge&logo=HackerRank&logoColor=white"/>]([https://www.hackerrank.com/joseph137](https://www.hackerrank.com/joseph137))
+<!--[<img alt="StackOverFlow" src="https://img.shields.io/badge/StackOverFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=Stackoverflow&logoColor=white"/>](https://stackoverflow.com/users/4805642/joseph-daudi)
+[<img alt="HackerRank" src="https://img.shields.io/badge/josedaudi%20-%230E141E.svg?&style=for-the-badge&logo=HackerRank&logoColor=white"/>]([https://www.hackerrank.com/joseph137](https://www.hackerrank.com/joseph137))-->
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/joseph-daudi/)
 
 
