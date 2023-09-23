@@ -38,28 +38,16 @@ I mainly code in Python, Java, Kotlin(Android), Javascript and its frameworks, F
 ### Frameworks
 
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.Js](https://img.shields.io/badge/vue.js%20-%2335495e.svg?&style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring%20MVC%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring%20Boot%20-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Vaadin](https://img.shields.io/badge/Vaadin%20-%2300B4F0.svg?&style=for-the-badge&logo=vaadin&logoColor=white)
-![Flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
 
 ### Cloud Technologies
 
 ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible%20-%23EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white)
-![Celery](https://img.shields.io/badge/celery%20-%2337814A.svg?&style=for-the-badge&logo=celery&logoColor=white)
-![ApolloGraphQL](https://img.shields.io/badge/apollographql%20-%23311C87.svg?&style=for-the-badge&logo=apollographql&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase%20-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white)
-![Firebase](https://img.shields.io/badge/amplify%20-%23FF9900.svg?&style=for-the-badge&logo=awsamplify&logoColor=white)
-![Firebase](https://img.shields.io/badge/mqtt%20-%233C5280.svg?&style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
-![Firebase](https://img.shields.io/badge/rabbitmq%20-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-FFF?&&style=for-the-badge&logo=Jira-Software&logoColor=0052CC)
 ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?&style=for-the-badge&logo=Linux&logoColor=black)
 
 ### Machine Learning and Data Analysis
