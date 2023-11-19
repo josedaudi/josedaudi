@@ -3,6 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=josedaudi&color=green)
 -------------------------------------------------
 
+I am Joseph Daudi, a versatile Software and Data Engineer with a strong foundation in developing robust applications and leveraging data to drive insights. Proficient in a variety of programming languages and skilled in designing scalable, efficient data pipelines. Experience spans full-stack development, from conceptualization to implementation. Adept at transforming raw data into actionable intelligence. Committed to continuous learning and passionate about creating solutions that make a meaningful impact.
+
 ### Social Profiles
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/joseph-daudi/)
