@@ -1,9 +1,15 @@
-# print("Hello World 👋,") 
+### Hi, I'm Joseph Daudi 👋  
 
 ![](https://komarev.com/ghpvc/?username=josedaudi&color=green)
 -------------------------------------------------
 
-I am Joseph Daudi, a versatile Software and Data Engineer with a strong foundation in developing robust applications and leveraging data to drive insights. Proficient in a variety of programming languages and skilled in designing scalable, efficient data pipelines. Experience spans full-stack development, from conceptualization to implementation. Adept at transforming raw data into actionable intelligence. Committed to continuous learning and passionate about creating solutions that make a meaningful impact.
+I'm a **Software and Data Engineer** passionate about building scalable applications and designing efficient data pipelines. With experience spanning **full-stack development**, I transform ideas into robust solutions and raw data into actionable insights.  
+
+🔹 **Tech Stack:** Python, SQL, Kubernetes, Django, React, WSO2, CI/CD  
+🔹 **Interests:** Data Engineering, System Design, AI & ML Integration  
+🔹 **Philosophy:** Code should be **scalable, efficient, and impactful**  
+
+🚀 Always learning, always building. Let’s connect!  
 
 ### Social Profiles
 
