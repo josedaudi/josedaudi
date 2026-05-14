@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Joseph%20Daudi&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20%26%20Data%20Engineer&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Joseph+Daudi&fontSize=60&fontColor=fff&fontAlignY=35&desc=Software+%26+Data+Engineer&descAlignY=55&descSize=20" />
 </p>
 
 <p align="center">
@@ -31,8 +31,8 @@ I'm a **Software and Data Engineer** who builds scalable backend systems and end
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josedaudi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josedaudi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=josedaudi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josedaudi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="180" />
 </p>
 
 <p align="center">
@@ -53,9 +53,9 @@ I'm a **Software and Data Engineer** who builds scalable backend systems and end
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josedaudi/josedaudi-1/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josedaudi/josedaudi-1/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/josedaudi/josedaudi-1/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josedaudi/josedaudi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josedaudi/josedaudi/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/josedaudi/josedaudi/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
@@ -182,5 +182,5 @@ I'm a **Software and Data Engineer** who builds scalable backend systems and end
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </p>
