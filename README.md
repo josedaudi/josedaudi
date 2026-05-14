@@ -31,12 +31,12 @@ I'm a **Software and Data Engineer** who builds scalable backend systems and end
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josedaudi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josedaudi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="180" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=josedaudi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=josedaudi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josedaudi&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=josedaudi&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
