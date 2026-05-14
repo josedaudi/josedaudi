@@ -155,12 +155,8 @@ I'm a **Software and Data Engineer** who builds scalable backend systems and end
   <a href="https://www.linkedin.com/in/joseph-daudi/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!-- Uncomment and update with your actual links -->
   <!-- <a href="https://yourwebsite.com">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
-  </a> -->
-  <!-- <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a> -->
 </p>
 
