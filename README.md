@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Software+%26+Data+Engineer;Building+Scalable+Data+Pipelines;Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Software+%26+Data+Engineer;Building+Scalable+Data+Pipelines;Backend+%26+Enterprise+Integrations;Data-Driven+Platform+Builder;Machine+Learning+Engineer;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,12 +18,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software and Data Engineer** who builds scalable backend systems and end-to-end data pipelines that turn raw data into actionable insights. I thrive at the intersection of **full-stack development**, **data engineering**, and **cloud infrastructure** — designing systems that are reliable, efficient, and built to grow.
+I'm a **Software and Data Engineer** who specialises in building scalable backend systems, end-to-end data pipelines, and enterprise integrations that turn raw data into actionable insights. I thrive at the intersection of **backend engineering**, **data engineering**, and **machine learning** — designing data-driven platforms that are reliable, efficient, and built to grow.
 
-- 🔭 **Currently building:** Scalable data pipelines and microservices on AWS
+- 🔭 **Currently building:** Scalable data pipelines, ML-powered platforms, and enterprise integrations on AWS
 - 🌱 **Currently exploring:** dbt, Apache Kafka, and LLM-powered data workflows
-- 💬 **Ask me about:** Data Engineering, System Design, Django, React, Kubernetes
-- 🤝 **Open to:** Collaborations on open-source data/backend projects
+- 💬 **Ask me about:** Data Engineering, ML Pipelines, System Design, Django, Enterprise Integrations
+- 🤝 **Open to:** Collaborations on open-source data/backend/ML projects
 - ⚡ **Philosophy:** Code should be *scalable, efficient, and impactful*
 
 ---
