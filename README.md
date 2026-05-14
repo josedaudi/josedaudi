@@ -65,21 +65,6 @@ I'm a **Software and Data Engineer** who builds scalable backend systems and end
 
 ---
 
-## 🚀 Featured Projects
-
-> ⭐ Pinning my most impactful work — feel free to explore!
-
-| Project | Description | Stack |
-|---|---|---|
-| 🔗 [**Project Name**](https://github.com/josedaudi) | Brief description of what it does and the problem it solves | Python, Django, PostgreSQL |
-| 🔗 [**Project Name**](https://github.com/josedaudi) | Brief description of what it does and the problem it solves | React, Node.js, AWS |
-| 🔗 [**Project Name**](https://github.com/josedaudi) | Brief description of what it does and the problem it solves | Apache Kafka, Spark, S3 |
-| 🔗 [**Project Name**](https://github.com/josedaudi) | Brief description of what it does and the problem it solves | Kubernetes, Terraform, GCP |
-
-> 📌 *Update the rows above with your actual pinned repositories.*
-
----
-
 ## 🛠️ Tech Stack
 
 <details open>
